@@ -1,0 +1,16 @@
+{
+"companyName": "Games for Trees",
+"productName": "Rolph the Tree",
+"productVersion": "0.1",
+"dataUrl": "rolph.data.unityweb",
+"wasmCodeUrl": "rolph.wasm.code.unityweb",
+"wasmFrameworkUrl": "rolph.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.17f1"
+}
