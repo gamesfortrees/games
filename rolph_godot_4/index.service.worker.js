@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1774025132|397496637';
+const CACHE_VERSION = '1775059553|3023587261';
 /** @type {string} */
 const CACHE_PREFIX = 'Rolph-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
